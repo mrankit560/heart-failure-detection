@@ -212,3 +212,11 @@ try:
     st.write(prediction_proba)
 except ValueError:
     st.header("Invalid data was supplied to the predictor")
+
+
+st.write(""" 
+# HEART FAILURE PREDICTION APP
+
+@copyright - **Ankit** .
+
+""")
