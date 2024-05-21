@@ -5,7 +5,7 @@
 Data Science Project to assess the likelihood of a death event by heart failure.
 This can be used to help hospitals in assessing the severity of patients with cardiovascular diseases.
 
-Link to Website: [Click Here](https://sites.google.com/view/heart-failure-project/)
+Link to Website: [Click Here]([https://sites.google.com/view/heart-failure-project/](https://heart-fail-detect-297d1fc56f38.herokuapp.com/))
 
 ---
 
@@ -32,15 +32,7 @@ Exploratory Data Analysis of the dataset
 
 **MODEL**
 
-Metrics Used: F1 score with a higher recall score and considerable precision score as the evaluation metrics.
-Model training:
-Created various models like:
-1) Logistic Classifier	
-2) Decision Tree Classifier 
-3) Random Forest Classification Model
-4) LGBM 
-5) XGB 
-
+ Random Forest Classification Model
 
 and other classification models and fitted the train data to each model. 
 
@@ -68,7 +60,7 @@ The model takes 12 variables as input:
 ---
 
 ### How to upload data for prediction?
-Go to [Website](https://heart-failure-prediction-app.herokuapp.com/).
+Go to [Website](https://heart-fail-detect-297d1fc56f38.herokuapp.com/).
 There are 2 options of uploading data for prediction:
 
 1. Manual Entry (via sliders and text field): suitable for single patient prediction.
