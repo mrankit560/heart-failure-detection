@@ -7,7 +7,7 @@ This can be used to help hospitals in assessing the severity of patients with ca
 
 Link to Website: [Click Here](https://heart-fail-detect-297d1fc56f38.herokuapp.com/)
 
----
+----
 
 **About the dataset**
 
