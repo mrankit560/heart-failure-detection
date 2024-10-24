@@ -42,7 +42,7 @@ Considering the bias variance trade-off and the evaluation metrics, the best per
 
 ---
 
-### What input data is required?
+#### What input data is required?
 The model takes 12 variables as input:
 - Age
 - Anaemia
